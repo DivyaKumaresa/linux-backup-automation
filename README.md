@@ -58,14 +58,14 @@ The backup automation is implemented using a Bash script that:
 
 **File:** `backup.sh`
 
-![Backup Script](screenshots/backup-script (2).png)
+![Backup Script](screenshots/backup-script.png)
 
 ---
 
 ## ✅ Backup Execution Proof
 Successful execution of the script creates compressed backup archives in the backup directory.
 
-![Backup Created](screenshots/backup-created (2).png)
+![Backup Created](screenshots/backup-created.png)
 
 ---
 
